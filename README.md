@@ -2,24 +2,35 @@
  📋 Team Roles & Assignments
 
     💻 Development
-*Snapfing | Frontend Developer
+    
+🔷️Snapfing
+
+| Frontend Developer
 Focus: UI Design, UX Logic, and API 
 Integration.
 
-*wwwcharles20ngandwe-bot | Backend Developer
+🔷️wwwcharles20ngandwe-bot 
+
+| Backend Developer
 Focus: Server Logic, Database, and API Development.
 
    🎨 Design & Security
 
-*Mwambazi205 | UI/UX Designer & Documentation Lead
+🔷️Mwambazi205
+
+| UI/UX Designer & Documentation Lead
 Focus: Wireframes, Visual Design, and Project Records.
 
-*Agness-Banda | Documentation & Security Officer
+🔷️Agness-Banda
+
+| Documentation & Security Officer
 Focus: Technical Writing and Security Best Practices.
 
   ⚡ Management
 
-*Rebecca-Lungu | Project Manager & Backend Support
+🔷️Rebecca-Lungu
+
+| Project Manager & Backend Support
 Focus: Timelines, Task Oversight, and Backend Assistance.
 
 
@@ -27,18 +38,19 @@ Focus: Timelines, Task Oversight, and Backend Assistance.
 
 **Task	Lead**
 
-**The Look**	
+💫The Look💫
 
-**Snapfing & Mwambazi205
+🔷️Snapfing & Mwambazi205
 
-**The Engine**
+⚒️The Engine ⚒️
 
-wwwcharles20ngandwe-bot & Rebecca-Lungu
+🔷️wwwcharles20ngandwe-bot & Rebecca-Lungu
 
-**The Safety**
+🚨The Safety🚨
 
-*Agness-Banda
+🔷️Agness-Banda
 
-**The Records**
-Mwambazi205 & Agness-Banda
+🗂The Records🗂
+
+🔷️Mwambazi205 & Agness-Banda
 # Team-03-phase-1-web
